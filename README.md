@@ -5,10 +5,10 @@
 - Designed for every age [between 3 and 116 years]
 
 # Controls
-You can go forward [W] , backwards [S], left [A] and right [D]. 
-You can do a 90 degree left turn [s] and a right 90 degree turn [d]
-Special move: Whirling [G]
-Horn [H]
+- You can go forward [W] , backwards [S], left [A] and right [D]. 
+- You can do a 90 degree left turn [s] and a right 90 degree turn [d]
+- Special move: Whirling [G]
+- Horn [H]
 
 # Components
 
